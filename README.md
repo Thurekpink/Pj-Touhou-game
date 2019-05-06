@@ -1,9 +1,9 @@
 # Touhou-game
 A 2D Bullet Hell game made with Unity
 
-Como comentamos al inicio, el objetivo de la práctica es programar un videojuego en
-2D utilizando Unity (http://unity3d.com/es), un motor gráfico de videojuegos
-multiplataforma empaquetado como una herramienta para crear juegos, aplicaciones
+Práctica:
+programar un videojuego en2D utilizando Unity (http://unity3d.com/es), ç
+un motor gráfico de videojuegosmultiplataforma empaquetado como una herramienta para crear juegos, aplicaciones
 interactivas, visualizaciones y animaciones en 2D y 3D creado por Unity Technologies
 que está disponible como plataforma de desarrollo para Windows, OS X y Linux.
 El juego a desarrollar será de libre elección por parte del alumno, al igual que el
