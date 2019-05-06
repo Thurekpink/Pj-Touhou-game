@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 04d795bc3de823540b14377fcfc6c1f8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_0
+    21300002: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_1
+    21300004: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_2
+    21300006: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_3
+    21300008: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_4
+    21300010: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_5
+    21300012: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_6
+    21300014: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_7
+    21300016: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_8
+    21300018: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_9
+    21300020: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_10
+    21300022: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_11
+    21300024: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_12
+    21300026: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_13
+    21300028: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_14
+    21300030: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_15
+    21300032: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_16
+    21300034: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_17
+    21300036: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_18
+    21300038: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_19
+    21300040: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_20
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 91
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea854dcf5dd0b640b8839110936ebba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 91
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7785251880297c4c9ae10f5919ef2c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 92
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0525836685d80e8479390d343af80b9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 92
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb4c5ac1f98abb448db524405b507a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 91
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc74cf70a0694ab4ca9420668cc7edc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 92
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d1df16323cace448988645e68f94c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 91
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82789302728dab429f8cfc16de22634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 43
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b321c550b785df428f2feb3f452912d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 44
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c23a8aca408364594dab6c3c2ef6d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 45
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df757adaf80cfc4f848c03624c2e150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 45
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8c0ade386129a4c856a29a96d18e6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 45
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07abd0484a4ab5540b9f1b0d04a656e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 44
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937d1c7cff774ff428a04f19a8c45294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 44
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be49838642963f4ea5571270833ff5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39714c0d23cb504dacaf2344adfb85c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f0d7783c51304439f29f98387f3ffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d04f677420480947a394e4e0d8fe6fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d90eb5b34c70a14b990885708b4eb0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af4b9fa5d53c7845a60837958b0397f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993773ed85682374593f7f719d1ee6a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Fuujinroku Mountain of Faith - Playable Characters 1_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435031b03d04bf740947c0bc9390d36a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f9fadce70cae005439443623267d7b38
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

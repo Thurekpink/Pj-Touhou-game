@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 973880d143bee1449873e7862b14bdce
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss
+      Yuyuko Saigyouji_0
+    21300002: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss
+      Yuyuko Saigyouji_1
+    21300004: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss
+      Yuyuko Saigyouji_2
+    21300006: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss
+      Yuyuko Saigyouji_3
+    21300008: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss
+      Yuyuko Saigyouji_4
+    21300010: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss
+      Yuyuko Saigyouji_5
+    21300012: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss
+      Yuyuko Saigyouji_6
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss Yuyuko
+        Saigyouji_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 89
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd47bae2b06aeee46b39c24a0aeeccb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss Yuyuko
+        Saigyouji_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 89
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda3f165efe136b40a1b23c273f064b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss Yuyuko
+        Saigyouji_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 86
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cdc2cd3124f02489fbfbb8f80124e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss Yuyuko
+        Saigyouji_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdce03c1340b5f842b39f6c8c07646da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss Yuyuko
+        Saigyouji_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 9
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ea1f3d9e8d0d043b102bc12c4866d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss Yuyuko
+        Saigyouji_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 11
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfe23c9f8a5c3a459507732c5400a50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Youyoumu Perfect Cherry Blossom - Enemies- Boss Yuyuko
+        Saigyouji_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 77
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40ae4fa76049a247accc41c17b55727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e3e698d78bc94d64ea122eab512f3bc6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

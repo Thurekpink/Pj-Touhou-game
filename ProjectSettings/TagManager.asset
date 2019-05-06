@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - GameManager
+  - OptionsCanvas
+  - MainMenuCanvas
+  - GroundObject
+  - sp1
+  - sp2
+  - sp3
+  - EnemyBulletSpawn
+  - DeathMenu
+  - sp4
+  - sph11
+  - sph12
+  - sph21
+  - sph22
+  - Enemyph1
+  - Enemyph2
+  - EnemyBulletSpawnph1
+  - EnemyBulletSpawnph2
+  - EnemyBulletSpawnph22
+  - pls
+  - endmenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
